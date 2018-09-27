@@ -2,3 +2,4 @@
 *.csv
 *.pyc
 catboost_info/
+*.fth
