@@ -2,8 +2,9 @@ import pandas as pd
 
 
 files = {
-    'max.csv': 1,
+    'max.csv': 1.15,
     'raph.csv': 1,
+    'adil.csv': 1.05,
 }
 
 subs = {file: pd.read_csv(file) for file in files}
